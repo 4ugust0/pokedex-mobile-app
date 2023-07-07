@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "pokedex-mobile-app",
+    "slug": "pokedex-mobile-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./images/icons-app/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./images/icons-app/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./images/icons-app/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./images/icons-app/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "37925896-3032-4b84-bc67-3115ec551feb"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/37925896-3032-4b84-bc67-3115ec551feb"
+    }
+  }
+}
