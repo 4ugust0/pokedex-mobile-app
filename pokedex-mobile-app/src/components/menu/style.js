@@ -8,7 +8,7 @@ const menuComponentStyle = {
     alignItems: "center",
     justifyContent: "space-between",
     backgroundColor: PalleteColor.brandPrimary,
-    paddingTop: 22,
+    paddingTop: 55,
     paddingBottom: 4,
     padding: "2%",
     elevation: 8,

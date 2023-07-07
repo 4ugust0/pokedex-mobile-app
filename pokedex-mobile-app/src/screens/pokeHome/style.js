@@ -22,7 +22,7 @@ const stylePokeHome = {
       shadowRadius: 10,
       shadowOpacity: 1,
       title: {
-        marginTop: 10,
+        marginTop: 12,
         fontSize: 23,
         textAlign: "center",
         fontWeight: "bold",
